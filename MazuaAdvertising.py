@@ -5,7 +5,7 @@ import pickle
 st.write("""
 # MazuaAdvertising Prediction App
 
-This app predicts the **Sales** by media platform!
+This app predicts the **Sales** by 3 media platform!
 """)
 
 st.sidebar.header('User Input Parameters')
